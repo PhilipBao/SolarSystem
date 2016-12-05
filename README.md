@@ -1,2 +1,0 @@
-# SolarSystem
-Practice for openGL
